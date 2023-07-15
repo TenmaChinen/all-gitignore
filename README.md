@@ -1,11 +1,11 @@
 # Django
 
 ## Description
-Foo
+Gitignore template for django that covers most of the files that should not be included in our Django project.
 
 [View the .gitignore file](./.gitignore)
 
-```css
+```sh
 # Django #
 *.log
 *.pot
