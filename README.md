@@ -3,6 +3,8 @@
 ## Description
 Foo
 
+[View the .gitignore file](./.gitignore)
+
 ```css
 # Django #
 *.log
