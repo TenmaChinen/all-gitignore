@@ -2,9 +2,6 @@
 
 [Download](https://raw.githubusercontent.com/TenmaChinen/all-gitignore/acfb9c2ec452d83252dc6fd6ebfa4f9fcdd7d08b/files/django/README.md?raw=true)
 
-<!-- <a href=".gitignore" download>Click to Download</a>
-<a href="https://github.com/TenmaChinen/all-gitignore/blob/main/files/django/.gitignore" download>Click to Download</a> -->
-
 ```sh
 # Django #
 *.log
