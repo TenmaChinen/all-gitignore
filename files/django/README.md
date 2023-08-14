@@ -1,6 +1,6 @@
 # Django Gitignore
 
-[Download](./.gitignore?raw=true)
+<a href='https://raw.githubusercontent.com/TenmaChinen/all-gitignore/main/files/django-react/.gitignore' download>Download</a>
 
 ```sh
 # Django #
