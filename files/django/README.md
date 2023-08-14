@@ -2,7 +2,13 @@
 
 [Download File](https://github.com/TenmaChinen/all-gitignore/blob/main/files/django/.gitignore?raw=true)
 <br>
+
 [Download File](https://raw.githubusercontent.com/TenmaChinen/all-gitignore/raw/main/files/django/.gitignore)
+
+<br>
+
+[Download File](https://raw.githubusercontent.com/TenmaChinen/all-gitignore/main/files/django/.gitignore)
+
 <!-- <a href=".gitignore" download>Click to Download</a>
 <a href="https://github.com/TenmaChinen/all-gitignore/blob/main/files/django/.gitignore" download>Click to Download</a> -->
 
