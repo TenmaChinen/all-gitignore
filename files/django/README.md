@@ -1,5 +1,7 @@
 # Django Gitignore
 
+[Download](https://github.com/TenmaChinen/all-gitignore/blob/acfb9c2ec452d83252dc6fd6ebfa4f9fcdd7d08b/files/django/.gitignore)
+
 [Download File](https://github.com/TenmaChinen/all-gitignore/blob/main/files/django/.gitignore?raw=true)
 <br>
 
