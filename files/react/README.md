@@ -1,6 +1,4 @@
-# Django Gitignore
-
-[Download](./.gitignore?raw=true)
+# React Gitignore
 
 ```sh
 # dependencies
