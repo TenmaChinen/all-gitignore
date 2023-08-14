@@ -1,9 +1,10 @@
 # Django Gitignore
 
-[Download File](https://github.com/TenmaChinen/all-gitignore/blob/main/files/django/.gitignore)
-[Download File](files/django/.gitignore)
-<a href=".gitignore" download>Click to Download</a>
-<a href="https://github.com/TenmaChinen/all-gitignore/blob/main/files/django/.gitignore" download>Click to Download</a>
+[Download File](https://github.com/TenmaChinen/all-gitignore/blob/main/files/django/.gitignore?raw=true)
+<br>
+[Download File](https://raw.githubusercontent.com/TenmaChinen/all-gitignore/raw/main/files/django/.gitignore)
+<!-- <a href=".gitignore" download>Click to Download</a>
+<a href="https://github.com/TenmaChinen/all-gitignore/blob/main/files/django/.gitignore" download>Click to Download</a> -->
 
 ```sh
 # Django #
